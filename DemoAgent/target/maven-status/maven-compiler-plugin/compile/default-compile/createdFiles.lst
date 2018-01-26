@@ -1,0 +1,3 @@
+vadim\demo\jvm\agent\DemoAgent.class
+vadim\demo\jvm\agent\DemoExpressionEditor.class
+vadim\demo\jvm\agent\DemoClassFileTransformer.class

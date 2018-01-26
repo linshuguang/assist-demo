@@ -1,0 +1,2 @@
+Premain-Class: vadim.demo.jvm.agent.DemoAgent
+Agent-Class: vadim.demo.jvm.agent.DemoAgent
